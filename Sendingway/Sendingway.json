@@ -1,0 +1,12 @@
+{
+    "Author": "NAUR",
+    "Name": "Sendingway",
+    "Punchline": "Crowdsourced PF.",
+    "Description": "Upload the current state of PF to Receivingway.",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "party",
+        "finder", 
+        "sendingway"
+    ]
+}
